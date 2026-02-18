@@ -1,0 +1,11 @@
+type,brand,url,da_mozrank,dr_linkpop,indexed_pages,facebook_followers,instagram_followers,price_range_gbp,target_segment,promotions_visible
+brand,Inov-8,https://www.inov-8.com,58,64,3170000,128000,159000,120-200,Elite competition trail runners,No
+brand,Alpkit,https://www.alpkit.com,53,70,359000,42000,62800,70-140,Price-conscious outdoor adventurers,Yes
+brand,Montane,https://www.montane.com,43,59,7530000,99000,128000,140-220,Premium expedition and endurance,No
+brand,Ronhill,https://www.ronhill.com,47,44,559000,14000,20500,80-160,UK domestic community runners,Yes
+brand,OMM,https://www.theomm.com,45,48,80900,133,20000,150-250,Ultra-technical professional niche,No
+distributor,Sportsshoes.com,https://www.sportsshoes.com,60,67,10500000,,169000,,Mass market multi-sport,
+distributor,Up & Running,https://www.upandrunning.co.uk,46,,13100000,,,, Specialist running retailer,
+distributor,Runnersneed,https://www.runnersneed.com,54,65,,,,, Semi-pro running specialist,
+distributor,Run4It,https://www.run4it.com,41,44,,,,,Trail and running specialist,
+distributor,Wiggle,https://www.wiggle.co.uk,72,,,,,,Pan-European multi-sport,
