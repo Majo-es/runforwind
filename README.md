@@ -54,10 +54,10 @@ runforwind-ecommerce-strategy/
 │       ├── evento_2.png               ← Camino Challenge (photo)
 │       ├── RFW-video.png              ← YouTube thumbnail: 800KM. ONE JACKET.
 │       ├── YouTube.png                ← YouTube channel mockup
-│       ├── Santiago_Jacket_1.png   ← Product page — Santiago Jacket (Green)
-│       ├── Santiago_Jacket_2.png   ← Product — Santiago Jacket (red)
+│       ├── Santiago_Jacket_1.png      ← Product page — Santiago Jacket (Green)
+│       ├── Santiago_Jacket_2.png      ← Product — Santiago Jacket (red)
 │       ├── jacket_3.png               ← Product — blue women's jacket
-│       ├── packaging.png   ← Limited Edition packaging
+│       ├── packaging.png              ← Limited Edition packaging
 │       └── RFW_Ficha_de_producto.png  ← Product sheet (B2B / e-commerce)
 │
 └── data/
