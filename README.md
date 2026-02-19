@@ -1,6 +1,4 @@
-
 # 🏔️ Runforwind S.A. — Cross-Border E-commerce Strategy for the UK Market
-
 ---
 
 ## 📋 Project Overview
@@ -37,13 +35,30 @@ runforwind-ecommerce-strategy/
 │   ├── 03-market-entry-strategy.md    ← Channel strategy & e-marketplace decisions
 │   ├── 04-digital-marketing-plan.md   ← SEO, SEM, Social, Email — 12-month plan
 │   ├── 05-budget-breakdown.md         ← Full €30K allocation with rationale
-│   └── 06-legal-logistics.md          ← Brexit, VAT, fulfillment, consumer law
+│   ├── 06-legal-logistics.md          ← Brexit, VAT, fulfillment, consumer law
+│   └── 07-mockups-brand-execution.md  ← Logos, social, email, events, product pages
 │
 ├── assets/
-│   └── diagrams/
-│       ├── funnel-diagram.md          ← Mermaid: digital acquisition funnel
-│       ├── channel-strategy.md        ← Mermaid: B2B vs B2C channel map
-│       └── budget-chart.md            ← Mermaid: budget allocation visual
+│   ├── diagrams/
+│   │   └── diagrams.md                ← Mermaid: funnel, channels, budget, timeline
+│   └── mockups/
+│       ├── logo.png                   ← Active brand logo (digital)
+│       ├── old-style-logo.png         ← Heritage logo (Art Nouveau)
+│       ├── RFW-IG.png                 ← @RUNFORWIND_UK Instagram profile
+│       ├── RFW-IG-post.png            ← Camino content series post
+│       ├── email_1.png                ← Post-purchase email — hero section
+│       ├── email_2.png                ← Post-purchase email — body
+│       ├── email_3.png                ← Post-purchase email — footer
+│       ├── email.html                 ← Email HTML source
+│       ├── evento_1.png               ← Camino Challenge (illustrated)
+│       ├── evento_2.png               ← Camino Challenge (photo)
+│       ├── RFW-video.png              ← YouTube thumbnail: 800KM. ONE JACKET.
+│       ├── YouTube.png                ← YouTube channel mockup
+│       ├── Screenshot_..._13_14.png   ← Product page — Santiago Jacket
+│       ├── Screenshot_..._13_36.png   ← Limited Edition packaging
+│       ├── Screenshot_..._15_22.png   ← Product — green jacket colourway
+│       ├── jacket_3.png               ← Product — blue women's jacket
+│       └── RFW_Ficha_de_producto.png  ← Product sheet (B2B / e-commerce)
 │
 └── data/
     └── competitor-benchmark.csv       ← Raw benchmarking data (DA, DR, Social)
@@ -135,7 +150,6 @@ Positioned between Alpkit's accessible range and Montane/OMM's premium extreme t
 - Qualitative Market Positioning & Gap Analysis
 - B2B Channel Development (distributors, trade outreach)
 
-
 ---
 
 ## 🎨 Brand Execution & Mockups
@@ -174,6 +188,3 @@ The strategy was brought to life with a full suite of creative executions:
 ---
 
 *Academic project developed for the Cross-Border E-commerce course at Universitat de Barcelona, 2025–26. Case authored by REEXPORTA™ (CC BY-NC-ND 4.0).*
-
-
-
