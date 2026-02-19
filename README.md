@@ -126,18 +126,15 @@ Positioned between Alpkit's accessible range and Montane/OMM's premium extreme t
 
 ## 🛠️ Skills & Tools Demonstrated
 
-![Strategy](https://img.shields.io/badge/Cross--Border%20E--commerce-Strategy-blue)
-![SEO](https://img.shields.io/badge/SEO-Competitor%20Analysis-green)
-![SEM](https://img.shields.io/badge/Google%20Ads-SEM%20Planning-yellow)
-![Amazon](https://img.shields.io/badge/Amazon-FBA%20Strategy-orange)
-![Analytics](https://img.shields.io/badge/Analytics-KPI%20Framework-purple)
-![Legal](https://img.shields.io/badge/Post--Brexit-Compliance-red)
+- Cross-Border E-commerce Strategy
+- SEO & Competitive Benchmarking (Domain Authority, Link Popularity, Social metrics)
+- Google Ads & SEM Planning (Shopping, Search, Retargeting)
+- Amazon FBA Strategy & Marketplace Evaluation
+- Digital Marketing Budget Planning & KPI Framework
+- Post-Brexit Logistics, VAT & UK Consumer Law Compliance
+- Qualitative Market Positioning & Gap Analysis
+- B2B Channel Development (distributors, trade outreach)
 
-- Competitive benchmarking (Domain Authority, Link Popularity, Social metrics)
-- Cross-border e-commerce channel strategy (D2C + marketplace + B2B)
-- Digital marketing planning and budget allocation
-- Post-Brexit logistics and VAT compliance framework
-- Qualitative market positioning and gap analysis
 
 ---
 
